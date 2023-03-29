@@ -1,0 +1,17 @@
+body {
+            background-color: #000000;
+        }
+     
+        button {
+            height: 80px;
+            width: 80px;
+
+        }
+     
+        .reset {
+            padding: 8px;
+        }
+     
+        .reset:hover {
+            opacity: 0.8;
+        }
